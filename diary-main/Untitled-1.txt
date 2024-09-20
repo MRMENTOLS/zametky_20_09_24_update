@@ -1,0 +1,5 @@
+-- database: c:\Users\user\Desktop\diary-main\instance\diary.db
+
+-- Чтобы выполнить весь файл, нажмите кнопку ▷ в правом верхнем углу окна.
+
+SELECT * FROM user;
